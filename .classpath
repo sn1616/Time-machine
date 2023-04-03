@@ -1,0 +1,13 @@
+<!-- <?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+    <classpathentry kind="src" path="src"/>
+    <classpathentry kind="lib" path="lib/org.eclipse.jgit-6.5.0.202303070854-r.jar"/>
+    <classpathentry kind="output" path="bin"/>
+</classpath> -->
+<classpath>
+	<classpathentry kind="lib" path="<"C:\Users\Nishtha Sahu\Downloads\org.eclipse.jgit-6.5.0.202303070854-r.jar>/jgit.jar"/>
+	<classpathentry kind="lib" path="<"C:\Users\Nishtha Sahu\Downloads\org.eclipse.jgit-6.5.0.202303070854-r.jar>/jgit-http.jar"/>
+	<classpathentry kind="lib" path="<"C:\Users\Nishtha Sahu\Downloads\org.eclipse.jgit-6.5.0.202303070854-r.jar>/jgit-ssh.jar"/>
+	<!-- add more JAR files here if needed -->
+	<classpathentry kind="output" path="bin"/>
+</classpath>
